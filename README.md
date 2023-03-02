@@ -1,0 +1,2 @@
+# alx_low_level_programming
+0×06_pointer_arrays_strings
